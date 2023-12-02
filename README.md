@@ -21,3 +21,20 @@ weighted avg       0.98      0.98      0.98       171
 
 AUC Score: 0.9980893592004703
 
+Logistic Regression has a precision of 0.97, a recall of 0.98, and an F1-Score of  0.98.
+
+## K-Nearest Neighbors
+
+description of model
+
+Results from the notebook: 
+
+conclusion of our results 
+
+
+Final rankings by F1
+1 
+2
+3
+
+Final rankings by AUC
